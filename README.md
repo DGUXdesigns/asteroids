@@ -1,6 +1,11 @@
 # Asteroids
 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Pygame](https://img.shields.io/badge/Pygame-00599C?style=for-the-badge&logo=pygame&logoColor=white)](https://www.pygame.org/)
+
 A classic Asteroids arcade game implementation in Python using Pygame. Destroy asteroids while avoiding collisions in this action-packed retro-style game.
+
+![Asteroids Game gif](./my_game_recording_loop.gif)
 
 ## Overview
 
